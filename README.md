@@ -50,7 +50,7 @@ This Automation test api uses postman. This project describe the automation test
 - Download Posmant at [Postman website](https://www.postman.com/downloads/postman-agent/)
 - Install postman
 - Import file 
-- Click 3 dot beside start
+- Click 3 dot beside start icon in collection tab
 - Click run collection
 
 
