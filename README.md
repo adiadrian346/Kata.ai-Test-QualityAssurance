@@ -44,3 +44,13 @@ This Test case is a test for fill sign up form and finish for sign up proccess.
 
 # Automated Testing API 
 This Automation test api uses postman. This project describe the automation testing api for create user, get user, update user, delete user using website https://reqres.in/ and I create a collection for postman. intended for the QA recruitment process at Kata.ai. 
+
+## Installation and implementation
+- Download file json 
+- Download Posmant at [Postman website](https://www.postman.com/downloads/postman-agent/)
+- Install postman
+- Import file 
+- Click 3 dot beside start
+- Click run collection
+
+
