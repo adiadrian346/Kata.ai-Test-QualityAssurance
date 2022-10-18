@@ -1,0 +1,1 @@
+# Kata.ai-Test-QualityAssurance
